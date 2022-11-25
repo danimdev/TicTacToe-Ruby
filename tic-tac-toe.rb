@@ -12,7 +12,7 @@
 # the field he wants his symbol placed into
 #
 #
-
+#
 
 #field indexer and string 
 index  = 1
